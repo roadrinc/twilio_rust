@@ -90,7 +90,7 @@ impl ApiPeriodV2010PeriodAccountPeriodRecording {
             error_code: None,
             uri: None,
             encryption_details: None,
-            subresource_uris: None: None,
+            subresource_uris: None,
             media_url: None,
         }
     }

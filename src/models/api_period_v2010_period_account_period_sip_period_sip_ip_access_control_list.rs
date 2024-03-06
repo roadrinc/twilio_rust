@@ -44,7 +44,7 @@ impl ApiPeriodV2010PeriodAccountPeriodSipPeriodSipIpAccessControlList {
             friendly_name: None,
             date_created: None,
             date_updated: None,
-            subresource_uris: None: None,
+            subresource_uris: None,
             uri: None,
         }
     }

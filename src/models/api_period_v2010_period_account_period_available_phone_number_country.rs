@@ -37,7 +37,7 @@ impl ApiPeriodV2010PeriodAccountPeriodAvailablePhoneNumberCountry {
             country: None,
             uri: None,
             beta: None,
-            subresource_uris: None: None,
+            subresource_uris: None,
         }
     }
 }

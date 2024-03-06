@@ -73,7 +73,7 @@ impl ApiPeriodV2010PeriodAccountPeriodUsagePeriodUsageRecordPeriodUsageRecordThi
             price: None,
             price_unit: None,
             start_date: None,
-            subresource_uris: None: None,
+            subresource_uris: None,
             uri: None,
             usage: None,
             usage_unit: None,

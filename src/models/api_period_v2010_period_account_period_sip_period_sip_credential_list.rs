@@ -44,7 +44,7 @@ impl ApiPeriodV2010PeriodAccountPeriodSipPeriodSipCredentialList {
             date_updated: None,
             friendly_name: None,
             sid: None,
-            subresource_uris: None: None,
+            subresource_uris: None,
             uri: None,
         }
     }

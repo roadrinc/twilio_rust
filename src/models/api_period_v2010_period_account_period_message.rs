@@ -95,7 +95,7 @@ impl ApiPeriodV2010PeriodAccountPeriodMessage {
             error_code: None,
             price_unit: None,
             api_version: None,
-            subresource_uris: None: None,
+            subresource_uris: None,
         }
     }
 }

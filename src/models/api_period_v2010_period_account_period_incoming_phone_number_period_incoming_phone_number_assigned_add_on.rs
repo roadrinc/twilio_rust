@@ -61,7 +61,7 @@ impl ApiPeriodV2010PeriodAccountPeriodIncomingPhoneNumberPeriodIncomingPhoneNumb
             date_created: None,
             date_updated: None,
             uri: None,
-            subresource_uris: None: None,
+            subresource_uris: None,
         }
     }
 }

@@ -61,7 +61,7 @@ impl ApiPeriodV2010PeriodAccountPeriodRecordingPeriodRecordingAddOnResultPeriodR
             date_created: None,
             date_updated: None,
             reference_sid: None,
-            subresource_uris: None: None,
+            subresource_uris: None,
         }
     }
 }

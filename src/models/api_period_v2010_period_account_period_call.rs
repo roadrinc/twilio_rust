@@ -120,7 +120,7 @@ impl ApiPeriodV2010PeriodAccountPeriodCall {
             queue_time: None,
             trunk_sid: None,
             uri: None,
-            subresource_uris: None: None,
+            subresource_uris: None,
         }
     }
 }

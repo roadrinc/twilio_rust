@@ -53,7 +53,7 @@ impl ApiPeriodV2010PeriodAccount {
             owner_account_sid: None,
             sid: None,
             status: None,
-            subresource_uris: None: None,
+            subresource_uris: None,
             r#type: None,
             uri: None,
         }

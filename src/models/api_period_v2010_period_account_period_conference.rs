@@ -61,7 +61,7 @@ impl ApiPeriodV2010PeriodAccountPeriodConference {
             sid: None,
             status: None,
             uri: None,
-            subresource_uris: None: None,
+            subresource_uris: None,
             reason_conference_ended: None,
             call_sid_ending_conference: None,
         }

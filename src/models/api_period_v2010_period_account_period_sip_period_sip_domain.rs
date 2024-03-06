@@ -96,7 +96,7 @@ impl ApiPeriodV2010PeriodAccountPeriodSipPeriodSipDomain {
             voice_status_callback_method: None,
             voice_status_callback_url: None,
             voice_url: None,
-            subresource_uris: None: None,
+            subresource_uris: None,
             sip_registration: None,
             emergency_calling_enabled: None,
             secure: None,
